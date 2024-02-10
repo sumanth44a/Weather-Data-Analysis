@@ -36,8 +36,6 @@ https://www.kaggle.com/datasets/swatikhedekar/python-project-on-weather-dataset
 
 - The above KDE plot shows that visibility over the wind speed.
 
-![image](https://github.com/sumanth44a/Weather-Data-Analysis/assets/114097800/01d1a799-5a7c-49c1-bb8b-8d4cc6a9d988)
-
-- The Corelation Heatmap.
 ![image](https://github.com/sumanth44a/Weather-Data-Analysis/assets/114097800/7250135d-59f1-4bea-93cd-ca8a19028e33)
+- The Corelation Heatmap.
 
